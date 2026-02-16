@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rfs-hybrid/42-Common-Core/main/assets/42_logo_white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rfs-hybrid/42-Common-Core/main/assets/42_Logo_White.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rfs-hybrid/42-Common-Core/main/assets/42_Logo.svg">
     <img alt="42 Logo" src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="150" />
   </picture>
   
