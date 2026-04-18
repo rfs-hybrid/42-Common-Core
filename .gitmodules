@@ -22,3 +22,6 @@
 [submodule "fract-ol"]
 	path = fract-ol
 	url = git@github.com:rfs-hybrid-42-common-core/fract-ol.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = git@github.com:rfs-hybrid-42-common-core/Philosophers.git
