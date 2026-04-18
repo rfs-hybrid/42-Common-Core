@@ -16,3 +16,6 @@
 [submodule "pipex"]
 	path = pipex
 	url = git@github.com:rfs-hybrid-42-common-core/pipex.git
+[submodule "minitalk"]
+	path = minitalk
+	url = git@github.com:rfs-hybrid-42-common-core/minitalk.git
