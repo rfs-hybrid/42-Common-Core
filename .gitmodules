@@ -10,3 +10,6 @@
 [submodule "Born2beroot"]
 	path = Born2beroot
 	url = https://github.com/rfs-hybrid-42-common-core/Born2beroot
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:rfs-hybrid-42-common-core/push_swap.git
