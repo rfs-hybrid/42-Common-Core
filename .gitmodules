@@ -25,3 +25,6 @@
 [submodule "Philosophers"]
 	path = Philosophers
 	url = git@github.com:rfs-hybrid-42-common-core/Philosophers.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:rfs-hybrid-42-common-core/minishell.git
