@@ -25,3 +25,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = git@github.com:rfs-hybrid-42-common-core/minishell.git
+[submodule "fract-ol"]
+	path = fract-ol
+	url = git@github.com:rfs-hybrid-42-common-core/fract-ol.git
