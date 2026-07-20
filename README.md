@@ -72,8 +72,8 @@ This repository uses a **Git Submodule architecture**. Each project below links 
 
 | Project | Status | Technologies & Concepts | Description |
 | :---: | :---: | :--- | :--- |
-| [**NetPractice**](https://github.com/rfs-hybrid-42-common-core/netpractice)<br>![NetPractice](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/netpracticem.png) | 🟡 Up Next | **Networking**<br>TCP/IP, Subnetting, Routing, Masks | Configuring small-scale virtual networks to solve addressing and routing problems. |
-| [**miniRT**](https://github.com/rfs-hybrid-42-common-core/miniRT)<br>![miniRT](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/minirtm.png) | 🟡 In Progress | **C, MiniLibX, Math**<br>Raytracing, Vectors, Lighting, 3D Rendering | Creating a 3D rendering engine capable of displaying mathematically generated spheres, planes, and cylinders with lighting computation. |
+| [**NetPractice**](https://github.com/rfs-hybrid-42-common-core/netpractice)<br>![NetPractice](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/netpracticem.png) | 🟡 In Progress | **Networking**<br>TCP/IP, Subnetting, Routing, Masks | Configuring small-scale virtual networks to solve addressing and routing problems. |
+| [**miniRT**](https://github.com/rfs-hybrid-42-common-core/miniRT)<br>![miniRT](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/minirtm.png) | 🟢 Done<br>*(125%)* | **C, MiniLibX, Math**<br>Raytracing, Vectors, Lighting, 3D Rendering | Creating a 3D rendering engine capable of displaying mathematically generated spheres, planes, and cylinders with lighting computation. |
 | [**CPP 00-04**](https://github.com/rfs-hybrid-42-common-core/cpp_modules)<br>![CPP](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/cppm.png) | ⚪ Not Started | **C++98, Makefile**<br>OOP, Classes, Polymorphism, Inheritance | A deep dive into the fundamentals of Object-Oriented Programming using C++. |
 
 ### 🏗️ Milestone 5: Infrastructure & Advanced OOP
