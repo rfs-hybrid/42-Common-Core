@@ -31,3 +31,6 @@
 [submodule "miniRT"]
 	path = miniRT
 	url = git@github.com:rfs-hybrid-42-common-core/miniRT.git
+[submodule "NetPractice"]
+	path = NetPractice
+	url = git@github.com:rfs-hybrid-42-common-core/NetPractice.git
