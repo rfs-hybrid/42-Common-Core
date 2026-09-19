@@ -37,7 +37,7 @@ This repository uses a **Git Submodule architecture**. Each project below links 
 
 ## 🏆 Curriculum Progress & Skills Matrix
 
-*Currently starting Milestone 4.*
+*Currently doing Milestone 5.*
 
 ### 🧱 Milestone 0 & 1: The Foundations
 *Mastering C programming, memory management, and system administration.*
@@ -74,16 +74,16 @@ This repository uses a **Git Submodule architecture**. Each project below links 
 | :---: | :---: | :--- | :--- |
 | [**NetPractice**](https://github.com/rfs-hybrid-42-common-core/netpractice)<br>![NetPractice](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/netpracticem.png) | 🟢 Done<br>*(100%)* | **Networking**<br>TCP/IP, Subnetting, Routing, Masks | Configuring small-scale virtual networks to solve addressing and routing problems. |
 | [**miniRT**](https://github.com/rfs-hybrid-42-common-core/miniRT)<br>![miniRT](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/minirtm.png) | 🟢 Done<br>*(125%)* | **C, MiniLibX, Math**<br>Raytracing, Vectors, Lighting, 3D Rendering | Creating a 3D rendering engine capable of displaying mathematically generated spheres, planes, and cylinders with lighting computation. |
-| [**CPP 00-04**](https://github.com/rfs-hybrid-42-common-core/cpp_modules)<br>![CPP](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/cppm.png) | 🟡 In Progress | **C++98, Makefile**<br>OOP, Classes, Polymorphism, Inheritance | A deep dive into the fundamentals of Object-Oriented Programming using C++. |
+| [**CPP 00-04**](https://github.com/rfs-hybrid-42-common-core/cpp_modules)<br>![CPP](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/cppm.png) | 🟢 Done<br>*(100%)* | **C++98, Makefile**<br>OOP, Classes, Polymorphism, Inheritance | A deep dive into the fundamentals of Object-Oriented Programming using C++. |
 
 ### 🏗️ Milestone 5: Infrastructure & Advanced OOP
 *Deploying containerized infrastructure and building non-blocking servers.*
 
 | Project | Status | Technologies & Concepts | Description |
 | :---: | :---: | :--- | :--- |
-| [**Inception**](https://github.com/rfs-hybrid-42-common-core/inception)<br>![Inception](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/inceptionm.png) | ⚪ Not Started | **Docker, Alpine**<br>Containerization, DevOps, Nginx, MariaDB | Deploying a multi-container infrastructure using `docker-compose`, strictly building customized images from Alpine Linux. |
-| [**webserv**](https://github.com/rfs-hybrid-42-common-core/webserv)<br>![webserv](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/webservm.png) | ⚪ Not Started | **C++98, Network I/O**<br>HTTP/1.1, Sockets, Multiplexing (`epoll`) | Writing a fully compliant, non-blocking HTTP web server from scratch capable of handling multiple client requests concurrently. |
-| [**CPP 05-09**](https://github.com/rfs-hybrid-42-common-core/cpp_modules)<br>![CPP](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/cppm.png) | 🟡 Up Next | **C++98, Makefile**<br>Templates, Exceptions, STL, Casts | Mastering advanced C++ concepts and the Standard Template Library (STL). |
+| [**Inception**](https://github.com/rfs-hybrid-42-common-core/inception)<br>![Inception](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/inceptionm.png) | 🟡 In Progress | **Docker, Alpine**<br>Containerization, DevOps, Nginx, MariaDB | Deploying a multi-container infrastructure using `docker-compose`, strictly building customized images from Alpine Linux. |
+| [**webserv**](https://github.com/rfs-hybrid-42-common-core/webserv)<br>![webserv](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/webservm.png) | 🟡 Up Next | **C++98, Network I/O**<br>HTTP/1.1, Sockets, Multiplexing (`epoll`) | Writing a fully compliant, non-blocking HTTP web server from scratch capable of handling multiple client requests concurrently. |
+| [**CPP 05-09**](https://github.com/rfs-hybrid-42-common-core/cpp_modules)<br>![CPP](https://github.com/rfs-hybrid/42-common-core/raw/main/assets/badges/cppm.png) | 🟢 Done<br>*(100%)* | **C++98, Makefile**<br>Templates, Exceptions, STL, Casts | Mastering advanced C++ concepts and the Standard Template Library (STL). |
 
 ### 🚀 Milestone 6: The Final Project
 *The culmination of the 42 Common Core.*

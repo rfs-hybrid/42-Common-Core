@@ -34,3 +34,6 @@
 [submodule "NetPractice"]
 	path = NetPractice
 	url = git@github.com:rfs-hybrid-42-common-core/NetPractice.git
+[submodule "CPP_Modules"]
+	path = CPP_Modules
+	url = git@github.com:rfs-hybrid-42-common-core/CPP_Modules.git
